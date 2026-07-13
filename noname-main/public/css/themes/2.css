@@ -1,0 +1,96 @@
+body {
+    background-color: #232323;
+}
+
+.card-body {
+    background-color: #313437;
+}
+
+.text-truncate, p, label, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, small, .navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active, button, input, .dropdown-item, .page-link, .page-item.active .page-link, .page-item.disabled .page-link {
+    color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.card {
+    background-color: #313437;
+}
+
+.bg-noname {
+    background: linear-gradient(47deg, rgb(65 34 8) 0%, rgb(210 120 0) 100%) !important;
+}
+
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
+    color: rgba(221, 221, 221, 0.7);
+}
+
+.nav-link:hover {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.border-bottom {
+    border-bottom: 1px solid #313437 !important;
+}
+
+.text-muted {
+    color: #c2c2c2 !important;
+}
+
+.breadcrumb {
+    background-color: #313437;
+}
+
+.table {
+    color: #ececec;
+}
+
+.table th, .table td {
+    border-top: 1px solid #464646;
+}
+
+.table thead th {
+    border-bottom: 2px solid #3f4041;
+}
+
+.form-control {
+    background-color: #313437;
+    color: #ececec;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    border: 1px solid #4f4f4f;
+}
+
+.dropdown-menu {
+    background-color: #313437;
+}
+
+.modal-body, .modal-footer, .modal-header {
+    background-color: #212125;
+    border-color: #35383b;
+}
+
+.model-content {
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.border {
+    border: 1px solid #35383b !important;
+}
+
+button.close {
+    color: #fff;
+    text-shadow: 0 1px 0 #636363;
+}
+
+.page-link {
+    background-color: #313437;
+}
+
+.page-item.active .page-link {
+    background-color: #424447;
+}
+
+.page-item.disabled .page-link {
+    background-color: #212125;
+}
+
+button, input {
+    color: #fff;
+}

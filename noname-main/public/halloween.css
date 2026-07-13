@@ -1,0 +1,41 @@
+.bg-noname {
+    background: var(--orange) !important;
+    color: white !important;
+  }
+
+
+  .btn-success {
+    background-color: var(--orange) !important;
+    color: white!important;
+    border: 1px solid var(--orange) !important;
+}
+
+.btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active, .open>.dropdown-toggle.btn-success  {
+    background: darken(var(--orange), 10%) !important;
+    border-color: darken(var(--orange), 10%) !important;
+    box-shadow: 0 0px 5px var(--orange);
+}
+
+.btn-success:focus, 
+.btn-success:active {
+    background-color: darken(var(--orange), 15%) !important;
+    border-color: darken(var(--orange), 15%) !important;
+    box-shadow: 0 0 0 0.25rem rgba(255, 165, 0, 0.5) !important;
+}
+
+.btn-success:active {
+    background-color: darken(var(--orange), 20%) !important;
+    border-color: darken(var(--orange), 20%) !important;
+}
+
+.bg-success {
+    background-color: var(--orange) !important;
+}
+
+.text-success {
+    color: var(--orange) !important;
+}
+
+.text-success:hover {
+    color: darken(var(--orange), 10%) !important;
+}

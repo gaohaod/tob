@@ -1,0 +1,32 @@
+{
+    "wearable": [
+        {
+            "name": "shirt",
+            "maximum": 1
+        },
+        {
+            "name": "pants",
+            "maximum": 1
+        },
+        {
+            "name": "hat",
+            "maximum": 3
+        },
+        {
+            "name": "gear",
+            "maximum": 5
+        },
+        {
+            "name": "face",
+            "maximum": 1
+        },
+        {
+            "name": "head",
+            "maximum": 1
+        },
+        {
+            "name": "tshirt",
+            "maximum": 1
+        }
+    ]
+}

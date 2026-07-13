@@ -1,0 +1,1 @@
+<img src="/images/loader.png" alt="Loading blob" width="50" class="loader">

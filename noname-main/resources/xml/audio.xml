@@ -1,0 +1,16 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.noname.xyz/roblox.xsd" version="4">
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Sound" referent="RBXC28927A169524E23BF9C55A61B1C39CB">
+		<Properties>
+			<bool name="Looped">false</bool>
+			<float name="MaxDistance">0</float>
+			<float name="MinDistance">0</float>
+			<string name="Name">Sound</string>
+			<float name="Pitch">1</float>
+			<bool name="PlayOnRemove">false</bool>
+			<Content name="SoundId"><url>http://noname.xyz/asset/?id={{ id }}</url></Content>
+			<float name="Volume">0.5</float>
+		</Properties>
+	</Item>
+</roblox>

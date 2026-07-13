@@ -1,0 +1,198 @@
+/* grateful my electricity didn't go out otherwise i would've killed myself */
+
+.brick-color-1 {
+    background-color: rgb(242, 243, 243);
+  }
+  .brick-color-2 {
+    background-color: rgb(161, 165, 162);
+  }
+  .brick-color-3 {
+    background-color: rgb(249, 233, 153);
+  }
+  .brick-color-5 {
+    background-color: rgb(215, 197, 154);
+  }
+  .brick-color-6 {
+    background-color: rgb(194, 218, 184);
+  }
+  .brick-color-9 {
+    background-color: rgb(232, 186, 200);
+  }
+  .brick-color-11 {
+    background-color: rgb(128, 187, 219);
+  }
+  .brick-color-12 {
+    background-color: rgb(203, 132, 66);
+  }
+  .brick-color-18 {
+    background-color: rgb(204, 142, 105);
+  }
+  .brick-color-21 {
+    background-color: rgb(196, 40, 28);
+  }
+  .brick-color-22 {
+    background-color: rgb(196, 112, 160);
+  }
+  .brick-color-23 {
+    background-color: rgb(13, 105, 172);
+  }
+  .brick-color-24 {
+    background-color: rgb(245, 205, 48);
+  }
+  .brick-color-25 {
+    background-color: rgb(98, 71, 50);
+  }
+  .brick-color-26 {
+    background-color: rgb(27, 42, 53);
+  }
+  .brick-color-27 {
+    background-color: rgb(109, 110, 108);
+  }
+  .brick-color-28 {
+    background-color: rgb(40, 127, 71);
+  }
+  .brick-color-29 {
+    background-color: rgb(161, 196, 140);
+  }
+  .brick-color-36 {
+    background-color: rgb(243, 207, 155);
+  }
+  .brick-color-37 {
+    background-color: rgb(75, 151, 75);
+  }
+  .brick-color-38 {
+    background-color: rgb(160, 95, 53);
+  }
+  .brick-color-39 {
+    background-color: rgb(193, 202, 222);
+  }
+  .brick-color-40 {
+    background-color: rgb(236, 236, 236);
+  }
+  .brick-color-41 {
+    background-color: rgb(205, 84, 75);
+  }
+  .brick-color-42 {
+    background-color: rgb(193, 223, 240);
+  }
+  .brick-color-43 {
+    background-color: rgb(123, 182, 232);
+  }
+  .brick-color-44 {
+    background-color: rgb(247, 241, 141);
+  }
+  .brick-color-45 {
+    background-color: rgb(180, 210, 228);
+  }
+  .brick-color-47 {
+    background-color: rgb(217, 133, 108);
+  }
+  .brick-color-48 {
+    background-color: rgb(132, 182, 141);
+  }
+  .brick-color-49 {
+    background-color: rgb(248, 241, 132);
+  }
+  .brick-color-50 {
+    background-color: rgb(236, 232, 222);
+  }
+  .brick-color-100 {
+    background-color: rgb(238, 196, 182);
+  }
+  .brick-color-101 {
+    background-color: rgb(218, 134, 122);
+  }
+  .brick-color-102 {
+    background-color: rgb(110, 153, 202);
+  }
+  .brick-color-103 {
+    background-color: rgb(199, 193, 183);
+  }
+  .brick-color-104 {
+    background-color: rgb(107, 50, 124);
+  }
+  .brick-color-105 {
+    background-color: rgb(226, 155, 64);
+  }
+  .brick-color-106 {
+    background-color: rgb(218, 133, 65);
+  }
+  .brick-color-107 {
+    background-color: rgb(0, 143, 156);
+  }
+  .brick-color-108 {
+    background-color: rgb(104, 92, 67);
+  }
+  .brick-color-110 {
+    background-color: rgb(67, 84, 147);
+  }
+  .brick-color-111 {
+    background-color: rgb(191, 183, 177);
+  }
+  .brick-color-112 {
+    background-color: rgb(104, 116, 172);
+  }
+  .brick-color-113 {
+    background-color: rgb(229, 173, 200);
+  }
+  .brick-color-115 {
+    background-color: rgb(199, 210, 60);
+  }
+  .brick-color-116 {
+    background-color: rgb(85, 165, 175);
+  }
+  .brick-color-118 {
+    background-color: rgb(183, 215, 213);
+  }
+  .brick-color-119 {
+    background-color: rgb(164, 189, 71);
+  }
+  .brick-color-120 {
+    background-color: rgb(217, 228, 167);
+  }
+  .brick-color-121 {
+    background-color: rgb(231, 172, 88);
+  }
+  .brick-color-123 {
+    background-color: rgb(211, 111, 76);
+  }
+  .brick-color-124 {
+    background-color: rgb(146, 57, 120);
+  }
+  .brick-color-125 {
+    background-color: rgb(234, 184, 146);
+  }
+  .brick-color-126 {
+    background-color: rgb(165, 165, 203);
+  }
+  .brick-color-127 {
+    background-color: rgb(220, 188, 129);
+  }
+  .brick-color-128 {
+    background-color: rgb(174, 122, 89);
+  }
+  
+  .brick-color-131 {
+    background-color: rgb(156, 163, 168);
+  }
+
+  .brick-color-133 {
+    background-color: rgb(213, 115, 61);
+  }
+
+  .brick-color-134 {
+    background-color: rgb(216, 221, 86);
+  }
+
+  .brick-color-135 {
+    background-color: rgb(116, 134, 157);
+  }
+
+  .brick-color-136 {
+    background-color: rgb(135, 124, 144);
+  }
+
+  .brick-color-137 {
+    background-color: rgb(224, 152, 100);
+  }
+
